@@ -13,9 +13,9 @@ def multiplos(n):
             multiplos += 1
     return multiplos
 
-texto = input("Ingrese lista separada por ',': ")
-lista = [int(a) for a in texto.split(",")]
-print(get_primos(lista))
+# texto = input("Ingrese lista separada por ',': ")
+# lista = [int(a) for a in texto.split(",")]
+# print(get_primos(lista))
 
 """
 Explicación:
